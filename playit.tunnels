@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "allows-md.gl.joinmc.link",
-          "assigned_srv": "allows-md.gl.joinmc.link",
+          "assigned_domain": "love-january.gl.joinmc.link",
+          "assigned_srv": "love-january.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "f9b1cc02-da8a-4963-b8c3-4ed1fdf8c617",
+          "id": "037ba24f-77d7-4062-a4c1-2f123b0152a7",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 27458,
-          "port_start": 27457,
+          "port_end": 27635,
+          "port_start": 27634,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-29T23:48:20.191580Z",
+      "created_at": "2024-08-30T03:39:48.341214Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5de1c109-4c3f-4eb9-aaea-ae4ef9bcfdd3",
+      "id": "ce0e71b8-879d-4148-bb52-18c885a156cd",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "8c850862-416b-44ba-a58e-c7576563b42a",
-          "agent_name": "Nato",
+          "agent_id": "65729860-21e2-4246-ac88-5d3effe0b774",
+          "agent_name": "Nato0273",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
